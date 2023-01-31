@@ -1,0 +1,12 @@
+{
+  "art_of_war" : [
+    {
+      "name" : "name",
+      "datatype" : "String"
+    },
+    {
+      "name" : "date_created",
+      "datatype" : "datetime"
+    }
+  ]
+}
